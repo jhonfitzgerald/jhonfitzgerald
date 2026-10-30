@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://pe.linkedin.com/in/jhonfitzgerald"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://jhonfitzgerald.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=jhonfitzgerald&style=for-the-badge&color=555" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=jhonfitzgerald&style=for-the-badge&color=grey" alt="Profile views">
 </p>
 
 ---
@@ -43,8 +43,7 @@
 ### 📊 Actividad
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonfitzgerald&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonfitzgerald&layout=compact&hide_border=true" alt="Top languages">
+  <img src="https://streak-stats.demolab.com?user=jhonfitzgerald&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
