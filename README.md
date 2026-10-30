@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://pe.linkedin.com/in/jhonfitzgerald"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://jhonfitzgerald.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://jhonfitzgerald.github.io"><img src="https://img.shields.io/badge/Portafolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=jhonfitzgerald&style=for-the-badge&color=grey" alt="Profile views">
 </p>
 
@@ -18,7 +18,8 @@
 |---|---|---|---|
 | **Scholar Academic** | Sistema de asistencia y gestión académica para colegios. Multi-tenant (schema-per-tenant), PWA. | Java 25 · Spring Boot 3.5 · Angular · PostgreSQL · Keycloak · RabbitMQ | 🔒 Privado · próximamente |
 | **brain** | Memoria persistente para agentes de IA: hechos atómicos, preferencias y decisiones que sobreviven entre sesiones, expuestos vía MCP. | Python · MCP · SQLite | 🔒 Privado · próximamente |
-| **mango** | Arquetipo Maven para microservicios Spring Boot listos para producción: JWT, cifrado simétrico/asimétrico, Feign y perfiles por entorno. | Java · Spring Boot · Maven | 🔒 Privado · próximamente |
+| **Mango SDK** | Facturación electrónica SUNAT: genera XML UBL, lo firma, valida contra las reglas XSL oficiales y lo envía a SUNAT/OSE. Port 1:1 en tres lenguajes. | PHP · Java 21 · .NET 10 | 🔒 Privado |
+| **mango template** | Plantilla de arquitectura hexagonal empaquetada como skill para agentes de IA: capas verificadas con ArchUnit y bootstrap de proyectos nuevos. | Java · Spring Boot 4 · .NET | 🔒 Privado |
 
 ### 🧠 Sobre mí
 
@@ -31,6 +32,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
